@@ -1,4 +1,4 @@
-# Metaxe infa Just demo azure landing zone provider
+# Metaxe infa - just demo azure landing zone provider
 
 ## Metaxe Infrastructure Architecture
 

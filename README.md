@@ -1,6 +1,6 @@
-# metaxe_infa Just demo azure landing zone provider
+# Metaxe infa Just demo azure landing zone provider
 
-## Metaxe Architecture
+## Metaxe Infrastructure Architecture
 
 ![Metaxe Architecture](https://github.com/ngocbd/metaxe_infa/raw/master/azure.PNG)
 
